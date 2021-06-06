@@ -4,7 +4,7 @@
 /node_modules
 /client/node_modules
 
-# if  in production (ENABLE IT)
+# if  in production (ENABLE IT .env)
 # .env
 
 /.pnp
